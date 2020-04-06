@@ -1,11 +1,11 @@
 # Site settings
-author: James Johnson
-title: 
+author: James Taylor Johnson
+title: From Zero to Sixty
 header-img: img/home-bg.png
 email: jtaylorjohnson@gmail.com
-copyright_name: James Johnson
+copyright_name: James Taylor Johnson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Path to Becoming a Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jtaylorjohnson
